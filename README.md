@@ -2,158 +2,88 @@
 
 # Achel Sahetapy
 
-### Frontend Developer
-
-Modern · Interactive · Clean
-
-Building modern web experiences focused on **interaction, clean architecture, and performance.**
+Frontend Developer building modern web experiences with a focus on interaction, clean architecture, and performance.
 
 <br />
 
 <a href="https://chelo-fe.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=2DD4BF" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/marcelino-sahetapy/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=2DD4BF" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/chelo.shtpy">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=2DD4BF" />
 </a>
 &nbsp;
 <a href="mailto:achelsahetapy10@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=2DD4BF" />
 </a>
 
 </div>
 
-<br />
 <br />
 
 ## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,gsap,git&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,gsap,git&theme=dark&perline=8" />
 
 </div>
 
 <br />
-<br />
 
 ## Featured Projects
-
-<br />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>Football StatsHub</h3>
+### [Football StatsHub](https://football-data-zeta.vercel.app/)
 
-<p>
-Modern football statistics hub covering Europe's top five leagues, featuring dynamic data, interactive interfaces, and cinematic animations.
-</p>
+Football statistics hub covering Europe's top five leagues, with live data, interactive interfaces, and scroll-driven animation.
 
-<br />
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind&perline=4" />
-
-<br />
-<br />
-
-<code>Lenis</code>
-  <code>API-Football</code>
-
-<br />
-<br />
-
-<a href="https://football-data-zeta.vercel.app/">
-↗ View Project
-</a>
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind&theme=dark&perline=4" /><br /><br />
+`Lenis` `API-Football`
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>GPM Tuhaha</h3>
+### [GPM Tuhaha](https://gpm-tuhaha.vercel.app/)
 
-<p>
-Modern church website designed to present church information, community activities, and announcements through an engaging digital experience.
-</p>
+Church website presenting congregation information, community activities, and announcements through a clean, content-first layout.
 
-<br />
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&perline=4" />
-
-<br />
-<br />
-
-<code>GSAP</code>
-
-<br />
-<br />
-
-<a href="https://gpm-tuhaha.vercel.app/">
-↗ View Project
-</a>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark&perline=4" /><br /><br />
+`GSAP`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>SMP Negeri 28 Maluku Tengah</h3>
+### [SMP Negeri 28 Maluku Tengah](https://smp28malteng.vercel.app/)
 
-<p>
-Official website for SMP Negeri 28 Maluku Tengah, showcasing school information, history, programs, and activities through a modern responsive interface.
-</p>
+Official school website presenting profile, history, academic programs, and activities in a responsive, easy-to-navigate interface.
 
-<br />
-
-<img src="https://skillicons.dev/icons?i=react,js,tailwind&perline=3" />
-
-<br />
-<br />
-
-<code>GSAP</code>
-  <code>AOS</code>
-
-<br />
-<br />
-
-<a href="https://smp28malteng.vercel.app/">
-↗ View Project
-</a>
+<img src="https://skillicons.dev/icons?i=react,js,tailwind&theme=dark&perline=4" /><br /><br />
+`GSAP` `AOS`
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>Negeri Tuhaha</h3>
+### [Negeri Tuhaha](https://tuhaha.id)
 
-<p>
-Official government website for Negeri Tuhaha, presenting local government information, community data, and village profiles through a clean and accessible interface.
-</p>
+Local government website for Negeri Tuhaha, presenting village profile, administrative information, and community data.
 
-<br />
-
-<img src="https://skillicons.dev/icons?i=react,js,css&perline=3" />
-
-<br />
-<br />
-
-<a href="https://tuhaha.id">
-↗ View Project
-</a>
+<img src="https://skillicons.dev/icons?i=react,js,css&theme=dark&perline=4" />
 
 </td>
 </tr>
 </table>
 
-<br />
 <br />
 
 ## Languages
@@ -162,7 +92,7 @@ Official government website for Negeri Tuhaha, presenting local government infor
 
 <a href="https://github.com/Achel-Sahe">
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achel-Sahe&layout=donut&hide_border=true&theme=transparent&langs_count=6"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achel-Sahe&layout=donut&hide_border=true&theme=transparent&title_color=2DD4BF&text_color=c9d1d9&langs_count=6"
   width="350"
 />
 </a>
@@ -170,12 +100,11 @@ Official government website for Negeri Tuhaha, presenting local government infor
 </div>
 
 <br />
-<br />
 
 <div align="center">
 
 <a href="https://github.com/Achel-Sahe">
-<img src="https://img.shields.io/badge/GitHub-Achel--Sahe-111111?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Achel--Sahe-0D1117?style=flat-square&logo=github&logoColor=2DD4BF" />
 </a>
 
 </div>
