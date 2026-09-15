@@ -86,18 +86,6 @@ Local government website for Negeri Tuhaha, presenting village profile, administ
 
 <br />
 
-## Languages
-
-<div align="center">
-
-<a href="https://github.com/Achel-Sahe">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achel-Sahe&layout=donut&hide_border=true&theme=transparent&title_color=2DD4BF&text_color=c9d1d9&langs_count=6"
-  width="350"
-/>
-</a>
-
-</div>
 
 <br />
 
